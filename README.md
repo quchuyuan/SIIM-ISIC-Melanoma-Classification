@@ -28,7 +28,7 @@ To replicate the experiment results, a number of dependencies need to be install
 - matplotlib
 - sklearn
 
-I did not use TPU but you take a try if have access to a TPU.
+I did not use TPUs but you can take a try if you have access to a TPU.
 
 Run 
 ---
